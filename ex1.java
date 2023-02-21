@@ -4,7 +4,7 @@
 
 public class ex1 {
     public static void main(String[] args) {
-        System.out.println(triangleSum(7));
+        System.out.println(triangleSum(9));
         System.out.println(factorial(3));
     }
 
